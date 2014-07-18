@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 How to share data with a statistician
 ===========
 
@@ -188,3 +189,9 @@ Contributors
 * [Nick Reich](http://people.umass.edu/nick/) - Added tips on storing data as text.
 
 
+=======
+tester
+======
+
+tester
+>>>>>>> 4c66daaa5d5f91f7e3ec2a31001f8d2f02f45c44
